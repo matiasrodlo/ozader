@@ -1,5 +1,5 @@
 # ozader-global
-E-commerce - Wood Sunglasses (USD) (2017)
+E-commerce - Wood Sunglasses (2017)
 
 **Pitch:** https://youtu.be/-wVrKc2BdXI
 
