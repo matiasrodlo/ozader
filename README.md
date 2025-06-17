@@ -2,6 +2,8 @@
 
 B2B2C distribution platform featuring two collections of artisanal wooden sunglasses across Latin American markets. Built as an entrepreneurial venture focusing on craftsmanship and premium materials.
 
+Founded after finishing high school as part of an entrepreneurial journey, representing an early venture into internet-based business development and international e-commerce.
+
 **Pitch**: https://youtu.be/-wVrKc2BdXI
 
 <p align="center">
