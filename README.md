@@ -38,7 +38,4 @@ Three separate WordPress installations serving distinct regional markets:
 - Image optimization and galleries
 - Maintenance mode with countdown timers
 
-## Context
-
-Founded immediately after high school as part of an entrepreneurial journey, representing an early venture into internet-based business development and international e-commerce.
 
